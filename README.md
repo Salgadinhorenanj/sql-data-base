@@ -6,7 +6,7 @@
 
 ## Modelagem Lógica 
 
- <p>A modelagem lógica de banco de dados é o processo de projetar a estrutura de um banco de dados sem considerar aspectos específicos de implementação, como o software de banco de dados a ser usado. Ela se concentra na representação dos dados e nos relacionamentos entre eles de uma forma que seja lógica e compreensível para os usuários e desenvolvedores.</p>p
+ <p>A modelagem lógica de banco de dados é o processo de projetar a estrutura de um banco de dados sem considerar aspectos específicos de implementação, como o software de banco de dados a ser usado. Ela se concentra na representação dos dados e nos relacionamentos entre eles de uma forma que seja lógica e compreensível para os usuários e desenvolvedores.</p>
 
 ## Modelagem Física 
 
